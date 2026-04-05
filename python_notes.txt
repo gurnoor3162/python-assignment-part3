@@ -1,0 +1,7 @@
+Topic 1: Variables store data
+Topic 2: Lists are ordered
+Topic 3: Dictionaries store key value pairs
+Topic 4: Loops repeat tasks
+Topic 5: Exception handling prevents crashes
+Extra: Python is simple
+Extra: Practice makes perfect
