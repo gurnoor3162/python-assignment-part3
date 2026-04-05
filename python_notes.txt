@@ -1,0 +1,4 @@
+Python is easy to learn
+Lists store multiple values
+Dictionaries store key value pairs
+Loops help repeat tasks
