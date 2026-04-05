@@ -1,1 +1,0 @@
-We are storing API data in this file after running the script.
