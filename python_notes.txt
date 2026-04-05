@@ -1,5 +1,0 @@
-Python is easy
-Lists store multiple values
-Loops repeat tasks
-Dictionaries store key value pairs
-Functions help reuse code
